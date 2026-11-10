@@ -1,0 +1,51 @@
+# UK Road Safety Analytics
+
+## Project Overview
+
+This project investigates road collision severity across Great Britain using official 2025 Department for Transport data.
+
+The objective is to identify road and environmental conditions associated with serious or fatal injury collisions, explore potential safety concerns, and eventually develop a machine-learning model for collision severity classification.
+
+## Business Problem
+
+Transport authorities and road safety organisations need evidence to prioritise safety investigations and interventions.
+
+This project explores how collision severity varies by lighting, weather, road surface and road characteristics.
+
+## Data Source
+
+Department for Transport — Road Safety Open Data (2025).
+
+[https://www.gov.uk/government/statistical-data-sets/road-safety-open-data](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)
+
+The dataset covers police-reported personal injury collisions on public roads in Great Britain.
+
+## Tools
+
+- Python
+- pandas
+- Matplotlib
+- Google Colab
+- GitHub
+
+## Current Progress
+
+- [ ] Define business problem
+- [ ] Identify official data source
+- [ ] Inspect and clean the dataset
+- [ ] Explore severity distribution
+- [ ] Analyse lighting and road conditions
+- [ ] Build and evaluate a prediction model
+- [ ] Develop business recommendations
+
+## Findings
+
+To be completed after running and validating the analysis.
+
+## Limitations
+
+The data only includes police-reported injury collisions. The analysis cannot establish collision risk per journey without appropriate exposure data. Observed associations should not be interpreted as causal relationships.
+
+## Next Steps
+
+Decode categorical features, expand exploratory analysis, develop a predictive model and evaluate model performance.
